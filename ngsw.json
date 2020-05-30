@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1590818845857,
+  "index": "/pwa-angular-ghpages-nebular/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/pwa-angular-ghpages-nebular/favicon.ico",
+        "/pwa-angular-ghpages-nebular/index.html",
+        "/pwa-angular-ghpages-nebular/main-es2015.9633b6b359c5f15b9e32.js",
+        "/pwa-angular-ghpages-nebular/main-es5.9633b6b359c5f15b9e32.js",
+        "/pwa-angular-ghpages-nebular/manifest.webmanifest",
+        "/pwa-angular-ghpages-nebular/polyfills-es2015.690002c25ea8557bb4b0.js",
+        "/pwa-angular-ghpages-nebular/polyfills-es5.9e286f6d9247438cbb02.js",
+        "/pwa-angular-ghpages-nebular/runtime-es2015.1eba213af0b233498d9d.js",
+        "/pwa-angular-ghpages-nebular/runtime-es5.1eba213af0b233498d9d.js",
+        "/pwa-angular-ghpages-nebular/styles.c8cfe8832841ad89c477.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/pwa-angular-ghpages-nebular/assets/icons/icon-128x128.png",
+        "/pwa-angular-ghpages-nebular/assets/icons/icon-144x144.png",
+        "/pwa-angular-ghpages-nebular/assets/icons/icon-152x152.png",
+        "/pwa-angular-ghpages-nebular/assets/icons/icon-192x192.png",
+        "/pwa-angular-ghpages-nebular/assets/icons/icon-384x384.png",
+        "/pwa-angular-ghpages-nebular/assets/icons/icon-512x512.png",
+        "/pwa-angular-ghpages-nebular/assets/icons/icon-72x72.png",
+        "/pwa-angular-ghpages-nebular/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/pwa-angular-ghpages-nebular/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/pwa-angular-ghpages-nebular/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/pwa-angular-ghpages-nebular/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/pwa-angular-ghpages-nebular/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/pwa-angular-ghpages-nebular/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/pwa-angular-ghpages-nebular/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/pwa-angular-ghpages-nebular/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/pwa-angular-ghpages-nebular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/pwa-angular-ghpages-nebular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/pwa-angular-ghpages-nebular/index.html": "021915ca7f4e63437bc76e981f147d8b5905c85d",
+    "/pwa-angular-ghpages-nebular/main-es2015.9633b6b359c5f15b9e32.js": "1d9bee00341ba9ed6782d6a9bf77db27d6c4974c",
+    "/pwa-angular-ghpages-nebular/main-es5.9633b6b359c5f15b9e32.js": "a634d4a37a17772e2bcd5d1b78b65b439a5f41a4",
+    "/pwa-angular-ghpages-nebular/manifest.webmanifest": "ca5012967d31fe4ffb34012c4ecde977d81c0bfe",
+    "/pwa-angular-ghpages-nebular/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/pwa-angular-ghpages-nebular/polyfills-es5.9e286f6d9247438cbb02.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
+    "/pwa-angular-ghpages-nebular/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/pwa-angular-ghpages-nebular/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/pwa-angular-ghpages-nebular/styles.c8cfe8832841ad89c477.css": "a9672d04a0a333700f589891376ba2f464dd672e"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
